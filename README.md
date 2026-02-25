@@ -1,4 +1,4 @@
-## Hello there!
+## Hi there 👋
 
 I'm Jami, a Full Stack Engineer based in Finland.
 
